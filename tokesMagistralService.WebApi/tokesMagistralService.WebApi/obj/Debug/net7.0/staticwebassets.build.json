@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kgFnnmz/lM/CYn5zate6LVHM/vEFRoQvZG8Lrgy7ydM=",
+  "Source": "tokesMagistralService.WebApi",
+  "BasePath": "_content/tokesMagistralService.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

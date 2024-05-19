@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tokesMagistralService.WebApi", "tokesMagistralService.WebApi\tokesMagistralService.WebApi.csproj", "{13ADB8EA-AE6D-42E0-8B40-9508FBB69C4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13ADB8EA-AE6D-42E0-8B40-9508FBB69C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13ADB8EA-AE6D-42E0-8B40-9508FBB69C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13ADB8EA-AE6D-42E0-8B40-9508FBB69C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13ADB8EA-AE6D-42E0-8B40-9508FBB69C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {812AB9D7-F996-4FCA-B717-9A7B7ACD95D9}
+	EndGlobalSection
+EndGlobal
