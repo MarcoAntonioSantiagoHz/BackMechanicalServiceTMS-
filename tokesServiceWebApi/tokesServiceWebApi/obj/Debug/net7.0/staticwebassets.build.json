@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9LY7oUyEY2WbsZ/oXzX1KIpKy3QMrdrKKDsoUlPm4b8=",
+  "Source": "tokesServiceWebApi",
+  "BasePath": "_content/tokesServiceWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
