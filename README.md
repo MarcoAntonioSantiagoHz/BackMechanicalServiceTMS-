@@ -1,4 +1,4 @@
-# [TechMegastore BackEnd API]
+# [ BackEnd API Mechanical Service TMS]
 
 ## Descripción
 Plataforma de gestión de servicios mecanicos, gestión y venta de servivicios automotrices. Implementado en .NET 8.
